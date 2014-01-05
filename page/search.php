@@ -19,7 +19,6 @@
     <link rel="stylesheet" href="../css/main.css"/>
 
     <link href="../iCheck-master/skins/square/blue.css" rel="stylesheet">
-    <link rel="stylesheet" href="../select2-3.4.5/select2.css"/>
 </head>
 <body>
 <div class="off-canvas-wrap">
@@ -149,7 +148,6 @@
 <script src="../bower_components/jquery/jquery.js"></script>
 <script src="../bower_components/foundation/js/foundation.min.js"></script>
 <script src="../iCheck-master/icheck.js"></script>
-<script src="../select2-3.4.5/select2.js"></script>
 <script src="../scripts/app.js"></script>
 
 </body>

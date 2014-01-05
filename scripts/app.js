@@ -322,11 +322,6 @@ $(document).ready(function () {
     });
 
 
-//    Selectize
-
-    $('#country').select2();
-
-
 });
 
 
