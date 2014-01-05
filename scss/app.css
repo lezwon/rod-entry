@@ -1,0 +1,8 @@
+body {
+    background: gray;
+}
+
+body .top-bar-section {
+    text-align: center;
+    text-transform: uppercase;
+}
