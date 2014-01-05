@@ -1,0 +1,9 @@
+/* line 1, ../scss/app.scss */
+body {
+  background: gray;
+}
+/* line 4, ../scss/app.scss */
+body .top-bar-section {
+  text-align: center;
+  text-transform: uppercase;
+}

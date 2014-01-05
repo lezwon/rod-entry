@@ -1,2 +1,8 @@
-@import "settings";
-@import "foundation";
+body {
+  background: gray;
+
+  .top-bar-section {
+    text-align: center;
+    text-transform: uppercase;
+  }
+}
