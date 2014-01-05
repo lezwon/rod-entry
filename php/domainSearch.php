@@ -6,7 +6,7 @@
  * Time: 11:21 AM
  */
 
-global $search_header ;
+global $search_header;
 
 ?>
 
@@ -19,7 +19,7 @@ global $search_header ;
             <div class="row">
                 <div class="small-12 columns">
 
-                    <h2> <span id="searchIcon"></span> <?php echo $search_header ?> </h2>
+                    <h2><span id="searchIcon"></span> <?php echo $search_header ?> </h2>
                 </div>
 
             </div>
@@ -49,7 +49,6 @@ global $search_header ;
                             <option value=".asia">.asia</option>
                         </select>
                     </div>
-
 
 
                     <div class="small-2 columns">

@@ -1,18 +1,17 @@
 /*
 Syntax error: File to import not found or unreadable: compass.
               Load path: C:/xampp/htdocs/Foundation/scss
-        on line 2 of main.scss
+        on line 1 of main.scss
 
-1: 
-2: @import 'compass';
-3: 
-4: *{
-5:   outline: none;
-6: }
-7: 
+1: @import 'compass';
+2: 
+3: * {
+4:   outline: none;
+5: }
+6: 
 
 Backtrace:
-main.scss:2
+main.scss:1
 C:/Ruby200/lib/ruby/gems/2.0.0/gems/sass-3.2.12/lib/sass/tree/import_node.rb:67:in `rescue in import'
 C:/Ruby200/lib/ruby/gems/2.0.0/gems/sass-3.2.12/lib/sass/tree/import_node.rb:45:in `import'
 C:/Ruby200/lib/ruby/gems/2.0.0/gems/sass-3.2.12/lib/sass/tree/import_node.rb:28:in `imported_file'
@@ -50,4 +49,4 @@ C:/Ruby200/bin/scss:23:in `<main>'
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: File to import not found or unreadable: compass.\A               Load path: C:/xampp/htdocs/Foundation/scss\A         on line 2 of main.scss\A \A 1: \A 2: @import 'compass';\A 3: \A 4: *{\A 5:   outline: none;\A 6: }\A 7: "; }
+  content: "Syntax error: File to import not found or unreadable: compass.\A               Load path: C:/xampp/htdocs/Foundation/scss\A         on line 1 of main.scss\A \A 1: @import 'compass';\A 2: \A 3: * {\A 4:   outline: none;\A 5: }\A 6: "; }

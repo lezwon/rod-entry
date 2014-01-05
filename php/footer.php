@@ -18,11 +18,11 @@ global $parent_dir;
         <div class="row">
             <div class="small-12  small-centered text-center columns">
                 <ul class="small-block-grid-1  large-block-grid-5">
-                    <li><a href="<?php echo $parent_dir.'/' ?>">Contact Us</a></li>
-                    <li><a href="<?php echo $parent_dir.'/' ?>">Terms</a></li>
-                    <li><a href="<?php echo $parent_dir.'/' ?>">About Us</a></li>
-                    <li><a href="<?php echo $parent_dir.'/' ?>">Privacy Policies</a></li>
-                    <li><a href="<?php echo $parent_dir.'/' ?>">Careers</a></li>
+                    <li><a href="<?php echo $parent_dir . '/' ?>">Contact Us</a></li>
+                    <li><a href="<?php echo $parent_dir . '/' ?>">Terms</a></li>
+                    <li><a href="<?php echo $parent_dir . '/' ?>">About Us</a></li>
+                    <li><a href="<?php echo $parent_dir . '/' ?>">Privacy Policies</a></li>
+                    <li><a href="<?php echo $parent_dir . '/' ?>">Careers</a></li>
                 </ul>
 
                 <hr/>

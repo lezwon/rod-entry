@@ -1,7 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca37c7a7-5c38-4d28-8012-f387d3034431" name="Default" comment="" />
+    <list default="true" id="ca37c7a7-5c38-4d28-8012-f387d3034431" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\xampp\htdocs\Foundation\images\close-exit-512.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\Foundation\images\wrong_table_no_navigator_formula-512.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/design.png" afterPath="$PROJECT_DIR$/images/design.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/email.png" afterPath="$PROJECT_DIR$/images/email.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/hosting.png" afterPath="$PROJECT_DIR$/images/hosting.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/remove.png" afterPath="$PROJECT_DIR$/images/remove.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/flat/_all.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/flat/_all.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/line/_all.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/line/_all.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/minimal/_all.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/minimal/_all.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/square/_all.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/square/_all.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/flat/aero.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/flat/aero.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/line/aero.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/line/aero.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/minimal/aero.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/minimal/aero.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/square/aero.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/square/aero.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/all.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/all.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/app.js" afterPath="$PROJECT_DIR$/scripts/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/flat/blue.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/flat/blue.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/line/blue.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/line/blue.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/minimal/blue.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/minimal/blue.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/square/blue.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/square/blue.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/bower.json" afterPath="$PROJECT_DIR$/iCheck-master/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon/browserconfig.xml" afterPath="$PROJECT_DIR$/images/favicon/browserconfig.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/demo/css/custom.css" afterPath="$PROJECT_DIR$/iCheck-master/demo/css/custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/demo/js/custom.min.js" afterPath="$PROJECT_DIR$/iCheck-master/demo/js/custom.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/domainSearch.php" afterPath="$PROJECT_DIR$/php/domainSearch.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/flat/flat.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/flat/flat.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/footer.php" afterPath="$PROJECT_DIR$/php/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/foundation.css" afterPath="$PROJECT_DIR$/css/foundation.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/futurico/futurico.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/futurico/futurico.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/flat/green.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/flat/green.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/line/green.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/line/green.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/minimal/green.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/minimal/green.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/square/green.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/square/green.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/flat/grey.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/flat/grey.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/line/grey.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/line/grey.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/minimal/grey.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/minimal/grey.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/square/grey.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/square/grey.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/header.php" afterPath="$PROJECT_DIR$/php/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/icheck.jquery.json" afterPath="$PROJECT_DIR$/iCheck-master/icheck.jquery.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/icheck.js" afterPath="$PROJECT_DIR$/iCheck-master/icheck.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/icheck.min.js" afterPath="$PROJECT_DIR$/iCheck-master/icheck.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/demo/index.html" afterPath="$PROJECT_DIR$/iCheck-master/demo/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/demo/js/jquery.js" afterPath="$PROJECT_DIR$/iCheck-master/demo/js/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/jquery.screwdefaultbuttonsV2.min.js" afterPath="$PROJECT_DIR$/scripts/jquery.screwdefaultbuttonsV2.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/line/line.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/line/line.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/main.css" afterPath="$PROJECT_DIR$/scss/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/main.scss" afterPath="$PROJECT_DIR$/scss/main.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/minimal/minimal.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/minimal/minimal.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/demo/css/normalize.css" afterPath="$PROJECT_DIR$/iCheck-master/demo/css/normalize.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/flat/orange.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/flat/orange.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/line/orange.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/line/orange.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/minimal/orange.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/minimal/orange.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/square/orange.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/square/orange.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/order.php" afterPath="$PROJECT_DIR$/page/order.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/flat/pink.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/flat/pink.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/line/pink.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/line/pink.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/minimal/pink.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/minimal/pink.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/square/pink.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/square/pink.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/polaris/polaris.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/polaris/polaris.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/purchase.php" afterPath="$PROJECT_DIR$/php/purchase.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/flat/purple.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/flat/purple.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/line/purple.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/line/purple.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/minimal/purple.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/minimal/purple.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/square/purple.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/square/purple.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/flat/red.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/flat/red.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/line/red.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/line/red.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/minimal/red.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/minimal/red.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/square/red.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/square/red.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/screen.css" afterPath="$PROJECT_DIR$/scss/screen.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/screen.scss" afterPath="$PROJECT_DIR$/scss/screen.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/search.php" afterPath="$PROJECT_DIR$/page/search.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2-bootstrap.css" afterPath="$PROJECT_DIR$/select2-3.4.5/select2-bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2.css" afterPath="$PROJECT_DIR$/select2-3.4.5/select2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2.min.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_ar.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_ar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_bg.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_bg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_ca.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_ca.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_cs.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_cs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_da.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_da.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_de.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_de.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_el.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_el.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_es.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_es.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_et.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_et.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_eu.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_eu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_fa.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_fa.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_fr.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_fr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_gl.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_gl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_he.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_he.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_hr.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_hr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_hu.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_hu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_id.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_id.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_is.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_is.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_it.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_it.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_ja.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_ja.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_ko.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_ko.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_lt.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_lt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_lv.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_lv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_mk.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_mk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_ms.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_ms.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_nl.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_nl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_no.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_no.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_pl.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_pl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_pt-BR.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_pt-BR.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_pt-PT.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_pt-PT.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_ro.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_ro.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_ru.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_ru.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_sk.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_sk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_sv.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_sv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_th.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_th.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_tr.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_tr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_ua.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_ua.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_vi.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_vi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_zh-CN.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_zh-CN.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select2-3.4.5/select2_locale_zh-TW.js" afterPath="$PROJECT_DIR$/select2-3.4.5/select2_locale_zh-TW.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/square/square.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/square/square.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/test.css" afterPath="$PROJECT_DIR$/css/test.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.html" afterPath="$PROJECT_DIR$/test.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/test.scss" afterPath="$PROJECT_DIR$/scss/test.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/flat/yellow.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/flat/yellow.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/line/yellow.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/line/yellow.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/minimal/yellow.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/minimal/yellow.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/skins/square/yellow.css" afterPath="$PROJECT_DIR$/iCheck-master/skins/square/yellow.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iCheck-master/demo/js/zepto.js" afterPath="$PROJECT_DIR$/iCheck-master/demo/js/zepto.js" />
+    </list>
+    <list id="e4181c4c-2bb7-4402-842a-93cb918fb779" name="Rejected commit: Default" comment="" />
     <ignored path="Foundation.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +158,7 @@
       <file leaf-file-name="search.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page/search.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="151" column="55" selection-start="6955" selection-end="6955" vertical-scroll-proportion="-18.814816" vertical-offset="2210" max-vertical-offset="2898">
+            <state line="151" column="51" selection-start="6540" selection-end="6540" vertical-scroll-proportion="-18.814816" vertical-offset="2210" max-vertical-offset="2898">
               <folding />
             </state>
           </provider>
@@ -35,7 +167,7 @@
       <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/php/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="14" selection-start="981" selection-end="981" vertical-scroll-proportion="-0.0" vertical-offset="558" max-vertical-offset="720">
+            <state line="31" column="14" selection-start="991" selection-end="991" vertical-scroll-proportion="-0.0" vertical-offset="558" max-vertical-offset="720">
               <folding />
             </state>
           </provider>
@@ -44,10 +176,8 @@
       <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/php/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="0" selection-start="2981" selection-end="2981" vertical-scroll-proportion="-3.018868" vertical-offset="1622" max-vertical-offset="4860">
-              <folding>
-                <element signature="e#6#89#0" expanded="true" />
-              </folding>
+            <state line="108" column="0" selection-start="3578" selection-end="3578" vertical-scroll-proportion="-6.075472" vertical-offset="1622" max-vertical-offset="9342">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -55,25 +185,17 @@
       <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="649" column="1" selection-start="18068" selection-end="18068" vertical-scroll-proportion="0.0" vertical-offset="11333" max-vertical-offset="14166">
+            <state line="649" column="1" selection-start="18064" selection-end="18064" vertical-scroll-proportion="0.0" vertical-offset="9893" max-vertical-offset="14166">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="304" column="0" selection-start="14183" selection-end="14183" vertical-scroll-proportion="0.40895522" vertical-offset="5198" max-vertical-offset="5868">
-              <folding>
-                <marker date="1388900538170" expanded="true" signature="1635:2415" placeholder="..." />
-                <marker date="1388900538170" expanded="true" signature="1714:2415" placeholder="..." />
-                <marker date="1388900538170" expanded="true" signature="1767:2415" placeholder="..." />
-                <marker date="1388900538170" expanded="true" signature="1814:2415" placeholder="..." />
-                <marker date="1388900538170" expanded="true" signature="1861:2415" placeholder="..." />
-                <marker date="1388900538170" expanded="true" signature="1956:2161" placeholder="..." />
-                <marker date="1388900538170" expanded="true" signature="2368:2415" placeholder="..." />
-              </folding>
+            <state line="325" column="0" selection-start="12279" selection-end="12279" vertical-scroll-proportion="-15.111111" vertical-offset="5442" max-vertical-offset="6210">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -81,10 +203,8 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="332" column="28" selection-start="8523" selection-end="8523" vertical-scroll-proportion="0.0" vertical-offset="4793" max-vertical-offset="5580">
-              <folding>
-                <element signature="e#343#1426#0" expanded="false" />
-              </folding>
+            <state line="304" column="0" selection-start="8310" selection-end="8310" vertical-scroll-proportion="0.0" vertical-offset="4899" max-vertical-offset="6246">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -92,16 +212,16 @@
       <file leaf-file-name="order.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page/order.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="601" column="0" selection-start="21480" selection-end="21531" vertical-scroll-proportion="-18.148148" vertical-offset="10328" max-vertical-offset="10998">
+            <state line="586" column="0" selection-start="19935" selection-end="19935" vertical-scroll-proportion="-8.148149" vertical-offset="10328" max-vertical-offset="11124">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scss/main.scss">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="749" column="15" selection-start="11838" selection-end="11838" vertical-scroll-proportion="-16.62963" vertical-offset="13033" max-vertical-offset="14166">
+            <state line="4" column="0" selection-start="50" selection-end="50" vertical-scroll-proportion="0.1541756" vertical-offset="0" max-vertical-offset="467">
               <folding />
             </state>
           </provider>
@@ -113,6 +233,14 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Lezwon" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -140,13 +268,15 @@
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/php/header.php" />
         <option value="$PROJECT_DIR$/selectize.js-master/examples/optgroups.html" />
-        <option value="$PROJECT_DIR$/scripts/app.js" />
         <option value="$PROJECT_DIR$/scss/main.scss" />
         <option value="localhost:63342/Foundation/select2-3.4.5/select2.css" />
         <option value="$PROJECT_DIR$/select2-3.4.5/select2.css" />
-        <option value="$PROJECT_DIR$/page/order.php" />
         <option value="$PROJECT_DIR$/page/search.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/scripts/app.js" />
+        <option value="$PROJECT_DIR$/page/order.php" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -221,7 +351,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -273,7 +403,7 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="options.lastSelected" value="reference.settings.deploy.options" />
+    <property name="options.lastSelected" value="settings.github" />
     <property name="last_opened_file_path" value="C:/Ruby200/lib/ruby/gems/2.0.0/gems/compass-0.12.2/bin/compass" />
     <property name="FullScreen" value="false" />
     <property name="options.searchVisible" value="true" />
@@ -341,6 +471,11 @@
       <created>1385841077861</created>
       <updated>1385841077861</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1388907428275</created>
+      <updated>1388907428275</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -367,24 +502,25 @@
     <frame x="-4" y="-4" width="1448" height="880" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32880434" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32880434" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32833788" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32833788" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32561308" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32968536" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25894135" sideWeight="0.6711956" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15667576" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32880434" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1576087" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32833788" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32970026" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32880434" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25894135" sideWeight="0.6711956" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15667576" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1852861" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32608697" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -428,6 +564,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -510,11 +648,6 @@
         <state line="2" column="5612" selection-start="69673" selection-end="69673" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="144" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="710" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/_settings.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="0" selection-start="779" selection-end="779" vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="18036" />
@@ -594,7 +727,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/php/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="14" selection-start="981" selection-end="981" vertical-scroll-proportion="0.0" vertical-offset="558" max-vertical-offset="720">
+        <state line="31" column="14" selection-start="991" selection-end="991" vertical-scroll-proportion="-0.0" vertical-offset="558" max-vertical-offset="720">
           <folding />
         </state>
       </provider>
@@ -619,24 +752,10 @@
         <state line="19" column="0" selection-start="413" selection-end="413" vertical-scroll-proportion="0.48169014" vertical-offset="0" max-vertical-offset="1170" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="710" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="649" column="1" selection-start="18068" selection-end="18068" vertical-scroll-proportion="0.0" vertical-offset="11333" max-vertical-offset="14166">
+        <state line="649" column="1" selection-start="18064" selection-end="18064" vertical-scroll-proportion="0.0" vertical-offset="9893" max-vertical-offset="14166">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="332" column="28" selection-start="8523" selection-end="8523" vertical-scroll-proportion="0.0" vertical-offset="4793" max-vertical-offset="5580">
-          <folding>
-            <element signature="e#343#1426#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -652,48 +771,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="749" column="15" selection-start="11838" selection-end="11838" vertical-scroll-proportion="-16.62963" vertical-offset="13033" max-vertical-offset="14166">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/order.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="601" column="0" selection-start="21480" selection-end="21531" vertical-scroll-proportion="-18.148148" vertical-offset="10328" max-vertical-offset="10998">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/php/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="0" selection-start="2981" selection-end="2981" vertical-scroll-proportion="-3.018868" vertical-offset="1622" max-vertical-offset="4860">
-          <folding>
-            <element signature="e#6#89#0" expanded="true" />
-          </folding>
+        <state line="108" column="0" selection-start="3578" selection-end="3578" vertical-scroll-proportion="-6.075472" vertical-offset="1622" max-vertical-offset="9342">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/page/search.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="151" column="55" selection-start="6955" selection-end="6955" vertical-scroll-proportion="-18.814816" vertical-offset="2210" max-vertical-offset="2898">
+        <state line="151" column="51" selection-start="6540" selection-end="6540" vertical-scroll-proportion="-18.814816" vertical-offset="2210" max-vertical-offset="2898">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="304" column="0" selection-start="8310" selection-end="8310" vertical-scroll-proportion="0.0" vertical-offset="4899" max-vertical-offset="6246">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="466">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="304" column="0" selection-start="14183" selection-end="14183" vertical-scroll-proportion="0.40895522" vertical-offset="5198" max-vertical-offset="5868">
-          <folding>
-            <marker date="1388900538170" expanded="true" signature="1635:2415" placeholder="..." />
-            <marker date="1388900538170" expanded="true" signature="1714:2415" placeholder="..." />
-            <marker date="1388900538170" expanded="true" signature="1767:2415" placeholder="..." />
-            <marker date="1388900538170" expanded="true" signature="1814:2415" placeholder="..." />
-            <marker date="1388900538170" expanded="true" signature="1861:2415" placeholder="..." />
-            <marker date="1388900538170" expanded="true" signature="1956:2161" placeholder="..." />
-            <marker date="1388900538170" expanded="true" signature="2368:2415" placeholder="..." />
-          </folding>
+        <state line="325" column="0" selection-start="12279" selection-end="12279" vertical-scroll-proportion="-15.111111" vertical-offset="5442" max-vertical-offset="6210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="749" column="15" selection-start="11838" selection-end="11838" vertical-scroll-proportion="-0.5580866" vertical-offset="13727" max-vertical-offset="14166">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iCheck-master/demo/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="10" selection-start="207" selection-end="207" vertical-scroll-proportion="0.18620689" vertical-offset="0" max-vertical-offset="42930">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="586" column="0" selection-start="19935" selection-end="19935" vertical-scroll-proportion="-8.148149" vertical-offset="10328" max-vertical-offset="11124">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="50" selection-end="50" vertical-scroll-proportion="0.1541756" vertical-offset="0" max-vertical-offset="467">
+          <folding />
         </state>
       </provider>
     </entry>

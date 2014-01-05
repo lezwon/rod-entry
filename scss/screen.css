@@ -1,17 +1,16 @@
 /*
 Syntax error: File to import not found or unreadable: compass/reset.
               Load path: C:/xampp/htdocs/Foundation/scss
-        on line 6 of screen.scss
+        on line 5 of screen.scss
 
 1: /* Welcome to Compass.
 2:  * In this file you should write your main styles. (or centralize your imports)
 3:  * Import this file using the following HTML or equivalent:
 4:  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> *\/
-5: 
-6: @import "compass/reset";
+5: @import "compass/reset";
 
 Backtrace:
-screen.scss:6
+screen.scss:5
 C:/Ruby200/lib/ruby/gems/2.0.0/gems/sass-3.2.12/lib/sass/tree/import_node.rb:67:in `rescue in import'
 C:/Ruby200/lib/ruby/gems/2.0.0/gems/sass-3.2.12/lib/sass/tree/import_node.rb:45:in `import'
 C:/Ruby200/lib/ruby/gems/2.0.0/gems/sass-3.2.12/lib/sass/tree/import_node.rb:28:in `imported_file'
@@ -49,4 +48,4 @@ C:/Ruby200/bin/scss:23:in `<main>'
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: File to import not found or unreadable: compass/reset.\A               Load path: C:/xampp/htdocs/Foundation/scss\A         on line 6 of screen.scss\A \A 1: /* Welcome to Compass.\A 2:  * In this file you should write your main styles. (or centralize your imports)\A 3:  * Import this file using the following HTML or equivalent:\A 4:  * <link href=\"/stylesheets/screen.css\" media=\"screen, projection\" rel=\"stylesheet\" type=\"text/css\" /> */\A 5: \A 6: @import \"compass/reset\";"; }
+  content: "Syntax error: File to import not found or unreadable: compass/reset.\A               Load path: C:/xampp/htdocs/Foundation/scss\A         on line 5 of screen.scss\A \A 1: /* Welcome to Compass.\A 2:  * In this file you should write your main styles. (or centralize your imports)\A 3:  * Import this file using the following HTML or equivalent:\A 4:  * <link href=\"/stylesheets/screen.css\" media=\"screen, projection\" rel=\"stylesheet\" type=\"text/css\" /> */\A 5: @import \"compass/reset\";"; }
