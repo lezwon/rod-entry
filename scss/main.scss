@@ -144,22 +144,27 @@
     text-transform: uppercase;
     font-size: 3em;
 
+    @media screen and (max-width: 600px){
+      font-size: 2em;
+    }
+
+
     #searchIcon {
       padding: 25px;
       margin-right: 15px;
       background: url("../images/search.png") no-repeat center;
     }
 
-    select {
+  }
+
+  select {
+    padding: 0;
+    margin: 0;
+
+    option {
       padding: 0;
       margin: 0;
-
-      option {
-        padding: 0;
-        margin: 0;
-      }
     }
-
   }
 
   span, input, select, option {
